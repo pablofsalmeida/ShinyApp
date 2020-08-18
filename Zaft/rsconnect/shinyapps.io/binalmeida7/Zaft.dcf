@@ -1,0 +1,13 @@
+name: Zaft
+title: Zaft
+username:
+account: binalmeida7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2679516
+bundleId: 3527745
+url: https://binalmeida7.shinyapps.io/Zaft/
+when: 1597714624.82801
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Zaft.rar
