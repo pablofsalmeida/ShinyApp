@@ -1,0 +1,14 @@
+name: EficienciaFinanceira
+title: EficienciaFinanceira
+username:
+account: binalmeida7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4503476
+bundleId: 4933597
+url: https://binalmeida7.shinyapps.io/EficienciaFinanceira/
+when: 1629224304.48293
+lastSyncTime: 1629224304.48293
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
