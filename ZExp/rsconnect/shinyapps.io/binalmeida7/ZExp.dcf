@@ -4,10 +4,10 @@ username: binalmeida7
 account: binalmeida7
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 10630179
-bundleId: 7970763
+appId: 10631224
+bundleId: 7971585
 url: https://binalmeida7.shinyapps.io/ZExp/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: dbc.txt|dbc2.txt|Esboço - App.rar|ovos.txt|Pasta1.csv|Pasta2.csv|script.R
+ignoredFiles: .RData
