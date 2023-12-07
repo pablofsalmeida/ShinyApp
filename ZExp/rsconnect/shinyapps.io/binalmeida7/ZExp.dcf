@@ -1,0 +1,13 @@
+name: ZExp
+title: ZExp
+username: binalmeida7
+account: binalmeida7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10631224
+bundleId: 8019995
+url: https://binalmeida7.shinyapps.io/ZExp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|DBC.csv|dbc.txt|dbc2.txt|Esboço - App.rar|ovos.txt|Pasta2.csv|Pasta2.xlsx|script.R
