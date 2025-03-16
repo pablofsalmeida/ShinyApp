@@ -10,8 +10,8 @@ o poder computacional do software R com a interatividade da web moderna, tornand
 ## Aplicações desenvolvidas 🚀  
 <img src="data-analysis.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 
-#### Zaft <br>
-<a href="https://pablofsalmeida.shinyapps.io/Zaft/" target="blank">App</a>
+#### <a href="https://pablofsalmeida.shinyapps.io/Zaft/" target="blank">Zaft</a> <br>
+
 Foi criada aplicações web interativas de fácil utilização e interface amigável, que viabilize o ensino e aprendizagem de conteúdos presentes em disciplinas de Estatística e Probabilidade, criadas a partir do pacote Shiny, implementado a partir do software R e RStudio. <br>
 Tópicos abordados: 
 <ul>
