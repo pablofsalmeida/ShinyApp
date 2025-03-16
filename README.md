@@ -12,16 +12,16 @@ o poder computacional do software R com a interatividade da web moderna, tornand
 
 #### <a href="https://pablofsalmeida.shinyapps.io/Zaft/" target="blank">Zaft</a> <br>
 
-Foi criada aplicações web interativas de fácil utilização e interface amigável, que viabilize o ensino e aprendizagem de conteúdos presentes em disciplinas de Estatística e Probabilidade, criadas a partir do pacote Shiny, implementado a partir do software R e RStudio. <br>
-Tópicos abordados: 
+Foi criada aplicações web interativas de fácil utilização e interface amigável, que viabilize o ensino e aprendizagem de conteúdos presentes em disciplinas de Estatística e Probabilidade, criadas a partir do pacote Shiny, implementado a partir do software R e RStudio. Tópicos abordados: 
 <ul>
   <li>Intervalo de confiança;</li>
   <li>Dimensionamento de amostra;</li>
   <li>Regressão Linear Simples.</li>
 </ul>
-#### ZExp <br>
-<a href="https://pablofsalmeida.shinyapps.io/ZExp/" target="blank">App</a>
-#### Eficiência Financeira <br>
-<a href="https://pablofsalmeida.shinyapps.io/EficienciaFinanceira/" target="blank">App</a>
+
+#### <a href="https://pablofsalmeida.shinyapps.io/ZExp/" target="blank">ZExp</a><br>
+
+#### <a href="https://pablofsalmeida.shinyapps.io/EficienciaFinanceira/" target="blank">Eficiência Financeira </a><br>
+
 ## Autor  
 [Pablo Almeida](https://github.com/pablofsalmeida)
