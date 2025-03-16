@@ -8,7 +8,6 @@ o poder computacional do software R com a interatividade da web moderna, tornand
 </p>
 
 ## Aplicações desenvolvidas 🚀  
-<img src="data-analysis.png" min-width="200px" max-width="200" width="200px" align="right" alt="Computador">
 
 #### <a href="https://pablofsalmeida.shinyapps.io/Zaft/" target="blank">Zaft</a> <br>
 
@@ -20,6 +19,7 @@ Foi criada aplicações web interativas de fácil utilização e interface amig�
 </ul>
 
 #### <a href="https://pablofsalmeida.shinyapps.io/ZExp/" target="blank">ZExp</a><br>
+<img src="data-analysis.png" min-width="200px" max-width="200" width="200px" align="right" alt="Computador">
 
 Foi criada aplicações web interativas de fácil utilização e interface amigável, que viabilize o ensino e aprendizagem de conteúdos presentes na disciplina de Estatística e Experimental, criadas a partir do pacote Shiny, implementado a partir do software R e R Studio. Tópicos abordados: 
 <ul>
