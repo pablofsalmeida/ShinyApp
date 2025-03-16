@@ -11,3 +11,6 @@ o poder computacional do software R com a interatividade da web moderna, tornand
 -> Zaft <br>
 -> ZExp <br>
 -> Eficiência Financeira <br>
+
+## Autor  
+[Pablo Almeida](https://github.com/pablofsalmeida)
