@@ -11,7 +11,9 @@ o poder computacional do software R com a interatividade da web moderna, tornand
 <img src="data-analysis.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 
 #### Zaft <br>
+<a href="https://pablofsalmeida.shinyapps.io/Zaft/" target="blank">App</a>
 #### ZExp <br>
+<a href="https://pablofsalmeida.shinyapps.io/ZExp/" target="blank">App</a>
 #### Eficiência Financeira <br>
 
 ### Autor  
