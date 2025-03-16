@@ -33,4 +33,4 @@ Foi criada aplicação web interativa de fácil utilização e interface amigáv
 animal em confinamento.
 
 ## Autor  
-[Pablo Almeida](www.linkedin.com/in/pablofsalmeida)
+[Pablo Almeida](https://github.com/pablofsalmeida)
