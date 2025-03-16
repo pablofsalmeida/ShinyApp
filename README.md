@@ -9,9 +9,10 @@ o poder computacional do software R com a interatividade da web moderna, tornand
 
 ## Aplicações desenvolvidas 🚀  
 <img src="data-analysis.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
--> Zaft <br>
--> ZExp <br>
--> Eficiência Financeira <br>
+
+#### Zaft <br>
+#### ZExp <br>
+#### Eficiência Financeira <br>
 
 ### Autor  
 [Pablo Almeida](https://github.com/pablofsalmeida)
