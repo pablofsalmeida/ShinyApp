@@ -29,7 +29,7 @@ Foi criada aplicações web interativas de fácil utilização e interface amig�
 </ul>
 
 #### <a href="https://pablofsalmeida.shinyapps.io/EficienciaFinanceira/" target="blank">Eficiência Financeira </a><br>
-Foi criada aplicações web interativas de fácil utilização e interface amigável, por meio do pacote Shiny, implementado a partir do software R e R Studio, destinada à modelagem matemática do lucro líquido por
+Foi criada aplicação web interativa de fácil utilização e interface amigável, por meio do pacote Shiny, implementado a partir do software R e R Studio, destinada à modelagem matemática do lucro líquido por
 animal em confinamento.
 
 ## Autor  
