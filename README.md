@@ -6,7 +6,7 @@ para uma classe de elementos (default CSS) totalmente escritas em R, páginas na
 com o HTML (jQuery). O pacote também possui documentos interativos que contêm janelas, botões, ícones, menus, barras de rolagem e outras funcionalidades (widgets) Shiny incorporados. Diante disso, é possível notar que o Shiny une
 o poder computacional do software R com a interatividade da web moderna, tornando-se muito relevante para a computação científica.
 </p>
-### Aplicações desenvolvidas  🚀  
+# Aplicações desenvolvidas 🚀  
 <img src="data-analysis.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 -> Zaft <br>
 -> ZExp <br>
