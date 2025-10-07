@@ -33,5 +33,8 @@ Foi criada aplicações web interativas de fácil utilização e interface amig�
 Foi criada aplicação web interativa de fácil utilização e interface amigável, por meio do pacote Shiny, implementado a partir do software R e R Studio, destinada à modelagem matemática do lucro líquido por
 animal em confinamento.
 
-## Autor  
-[Pablo Almeida](https://github.com/pablofsalmeida)
+## Autor   
+[Pablo Fellipe de Souza Almeida](https://github.com/pablofsalmeida) <br>
+🎓 Bacharel em Ciência da Computação | Pós-graduando em Ciência de Dados e Big Data Analytics <br>
+📍 Santos Dumont – MG <br>
+💬 Interesse em BI, SQL, Python, Estatística e Ciência de Dados Aplicada 
